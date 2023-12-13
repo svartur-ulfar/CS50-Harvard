@@ -18,16 +18,16 @@ During this program you watch each of the course's lectures and submit the cours
     Optionally watch some Seminars.
     Submit the Final Project.
 
-The course planning was as it follows:
-  1.  Week 0 - Scratch, Incomplete
-  2.  Week 1 - C, Incomplete
-  3.  Week 2 - Arrays, Incomplete
-  4.  Week 3 - Algorithms, Incomplete
-  5.  Week 4 - Memory, Incomplete
-  6.  Week 5 - Data Structures, Incomplete
-  7.  Week 6 - Python, Incomplete
-  8.  Week 7 - SQL, Incomplete
-  9.  Week 8 - HTML, CSS, JavaScript, Incomplete
-  10. Week 9 - Flask, Incomplete
-  11. Week 10 - Emoji, Incomplete
+The course planning was as follows:
+  1.  Week 0 - Scratch
+  2.  Week 1 - C
+  3.  Week 2 - Arrays
+  4.  Week 3 - Algorithms
+  5.  Week 4 - Memory
+  6.  Week 5 - Data Structures
+  7.  Week 6 - Python
+  8.  Week 7 - SQL
+  9.  Week 8 - HTML, CSS, JavaScript
+  10. Week 9 - Flask
+  11. Week 10 - Emoji
   12. Cybersecurity

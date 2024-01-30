@@ -17,7 +17,7 @@ int main(void)
     int score1 = GetScore(Word_1);
     int score2 = GetScore(Word_2);
 
-    // Compare scores based on result given by GetScore function
+    // Compare scores based on results given by the GetScore function
     if (score1 > score2)
     {
         printf("Player 1 wins!\n");
@@ -46,7 +46,7 @@ int GetScore(string Word)
         {
             /*  getting the position of the letter according to the point
                 for upper letters where 'A' is represented by 65 in ASCII
-                points[] has 25 position so the point for letter B would be position 'B' - 'A' = 1
+                points[] has 25 positions so the point for letter B would be position 'B' - 'A' = 1
                 meaning the point on points[1];
             */
 
@@ -58,7 +58,7 @@ int GetScore(string Word)
         {
             /*  getting the position of the letter according to the point
                 for lower letters where 'a' is represented by 97 in ASCII
-                points[] has 25 position so the point for letter b would be position 'b' - 'a' = 1
+                points[] has 25 positions so the point for letter b would be position 'b' - 'a' = 1
                 meaning the point on points[1];
             */
 
